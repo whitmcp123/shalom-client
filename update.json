@@ -1,9 +1,9 @@
 {
-  "notes": "6 asas novas (Anjo, Borboleta, Libélula, Fênix, Cristal e Ossos) e batida de asa melhor.",
+  "notes": "Animações da tela inicial (estrela e personagem) mais suaves.",
   "jar": {
-    "version": "2.05",
-    "name": "GhostClient-2.05.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.05.jar",
-    "sha256": "2572f78f7afca23dc96698970610d6e36bb377d75d855b67d364ef99b42bc42d"
+    "version": "2.06",
+    "name": "GhostClient-2.06.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.06.jar",
+    "sha256": "ea93234bb7006cd64c2302c724af43d213dc586c3e970c8d673386861c9a33ff"
   }
 }
