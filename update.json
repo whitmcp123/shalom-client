@@ -1,9 +1,9 @@
 {
-  "notes": "Menu principal: limite de FPS corrigido (não cai mais para 20) e contador mostra o limite.",
+  "notes": "Contador de FPS do menu mostra só o número.",
   "jar": {
-    "version": "2.10",
-    "name": "GhostClient-2.10.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.10.jar",
-    "sha256": "8c2aa1462cfa4126c129109bc471f4a08bde0815fa70091619f3a6408abf60cd"
+    "version": "2.11",
+    "name": "GhostClient-2.11.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.11.jar",
+    "sha256": "10c9ebf368a7fd5ac3517aac9d53f7893fdf8c08077c8e1bd343a723e62e6174"
   }
 }
