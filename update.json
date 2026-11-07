@@ -1,9 +1,9 @@
 {
-  "notes": "2.03: ao apertar Shift aparece a tela com MODS e Cosméticos; mods e opções ficam dentro de MODS.",
+  "notes": "Novo logo e botão MODS na tela do Shift, e animação ao abrir os menus.",
   "jar": {
-    "version": "2.03",
-    "name": "GhostClient-2.03.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.03.jar",
-    "sha256": "3114b64251874e790d740455b1f33be948e0e72b50104800c46942d931aa4ee7"
+    "version": "2.04",
+    "name": "GhostClient-2.04.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.04.jar",
+    "sha256": "e6681f5980733b6288993001a13d3c15d61782c8f254cedd0c2148a0e52f1197"
   }
 }
