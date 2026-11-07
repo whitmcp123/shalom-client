@@ -1,9 +1,9 @@
 {
-  "notes": "Menu principal: o boneco entra mais devagar e as animações do press enter ficaram mais suaves.",
+  "notes": "Menu principal sem travadas ao apertar Enter: imagens e boneco carregam antes.",
   "jar": {
-    "version": "2.08",
-    "name": "GhostClient-2.08.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.08.jar",
-    "sha256": "dd263aa8b9b71597cd1ac0f45e1261d85d6a390b36cf3b42880956897d40c048"
+    "version": "2.09",
+    "name": "GhostClient-2.09.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.09.jar",
+    "sha256": "48ca18f21d44741ae3923f997b68e88d061e72ca149797277284c66d8ff1e9a8"
   }
 }
