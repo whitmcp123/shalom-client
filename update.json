@@ -1,9 +1,9 @@
 {
-  "notes": "Asas em 3D e telas de carregamento (servidor e abertura) redesenhadas, mais limpas.",
+  "notes": "Asas mais limpas: Morcego refeito e menos poluição nas outras; telas de carregamento minimalistas.",
   "jar": {
-    "version": "2.14",
-    "name": "GhostClient-2.14.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.14.jar",
-    "sha256": "0c3f193a2eef16a9944ea152c1403568132c3871ca2410adc2a4e7303637eef1"
+    "version": "2.15",
+    "name": "GhostClient-2.15.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.15.jar",
+    "sha256": "b5faff791b899fc9a6ecb651725f68061dc98fbae3bf26246fb1e0654a354226"
   }
 }
