@@ -1,9 +1,9 @@
 {
-  "notes": "Contador de FPS removido do menu.",
+  "notes": "Asas em 3D e telas de carregamento (servidor e abertura) redesenhadas, mais limpas.",
   "jar": {
-    "version": "2.13",
-    "name": "GhostClient-2.13.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.13.jar",
-    "sha256": "9d53c0b350964debd2a7ef5f8452bd4b40bbb88148c7bf89691a45ba1376ebb7"
+    "version": "2.14",
+    "name": "GhostClient-2.14.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.14.jar",
+    "sha256": "0c3f193a2eef16a9944ea152c1403568132c3871ca2410adc2a4e7303637eef1"
   }
 }
