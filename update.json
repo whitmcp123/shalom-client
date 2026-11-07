@@ -1,9 +1,9 @@
 {
-  "notes": "Novo logo e botão MODS na tela do Shift, e animação ao abrir os menus.",
+  "notes": "6 asas novas (Anjo, Borboleta, Libélula, Fênix, Cristal e Ossos) e batida de asa melhor.",
   "jar": {
-    "version": "2.04",
-    "name": "GhostClient-2.04.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.04.jar",
-    "sha256": "e6681f5980733b6288993001a13d3c15d61782c8f254cedd0c2148a0e52f1197"
+    "version": "2.05",
+    "name": "GhostClient-2.05.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.05.jar",
+    "sha256": "2572f78f7afca23dc96698970610d6e36bb377d75d855b67d364ef99b42bc42d"
   }
 }
