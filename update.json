@@ -1,9 +1,9 @@
 {
-  "notes": "Animações da tela inicial (estrela e personagem) mais suaves.",
+  "notes": "Contador de FPS discreto no menu principal.",
   "jar": {
-    "version": "2.06",
-    "name": "GhostClient-2.06.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.06.jar",
-    "sha256": "ea93234bb7006cd64c2302c724af43d213dc586c3e970c8d673386861c9a33ff"
+    "version": "2.07",
+    "name": "GhostClient-2.07.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.07.jar",
+    "sha256": "91c6fa10734aa55edfd4975cd28a7d7b6377d01e523c52e654d384f15b87834b"
   }
 }
