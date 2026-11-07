@@ -1,9 +1,9 @@
 {
-  "notes": "2.02: [✡] no nome de quem usa o Shalom, cosméticos visíveis entre jogadores, Discord (Jogando Shalom Client), menu e HUD mais limpos.",
+  "notes": "2.03: ao apertar Shift aparece a tela com MODS e Cosméticos; mods e opções ficam dentro de MODS.",
   "jar": {
-    "version": "2.02",
-    "name": "GhostClient-2.02.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.02.jar",
-    "sha256": "b8722fcf9c220a4949066b467a1062f3c60d4ebc7fab7039eaa244d97efb2512"
+    "version": "2.03",
+    "name": "GhostClient-2.03.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.03.jar",
+    "sha256": "3114b64251874e790d740455b1f33be948e0e72b50104800c46942d931aa4ee7"
   }
 }
