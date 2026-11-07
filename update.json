@@ -1,9 +1,9 @@
 {
-  "notes": "Contador de FPS discreto no menu principal.",
+  "notes": "Menu principal: o boneco entra mais devagar e as animações do press enter ficaram mais suaves.",
   "jar": {
-    "version": "2.07",
-    "name": "GhostClient-2.07.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.07.jar",
-    "sha256": "91c6fa10734aa55edfd4975cd28a7d7b6377d01e523c52e654d384f15b87834b"
+    "version": "2.08",
+    "name": "GhostClient-2.08.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.08.jar",
+    "sha256": "dd263aa8b9b71597cd1ac0f45e1261d85d6a390b36cf3b42880956897d40c048"
   }
 }
