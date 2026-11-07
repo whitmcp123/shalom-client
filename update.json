@@ -1,9 +1,9 @@
 {
-  "notes": "Menu principal sem o limite de 30 FPS (novo jeito, não depende do coremod).",
+  "notes": "Contador de FPS removido do menu.",
   "jar": {
-    "version": "2.12",
-    "name": "GhostClient-2.12.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.12.jar",
-    "sha256": "59380806730b6f4de0d9890969daa664f05d1b9f98ba2f253820cb8f97f8d9b0"
+    "version": "2.13",
+    "name": "GhostClient-2.13.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.13.jar",
+    "sha256": "9d53c0b350964debd2a7ef5f8452bd4b40bbb88148c7bf89691a45ba1376ebb7"
   }
 }
