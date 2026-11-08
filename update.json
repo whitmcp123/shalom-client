@@ -1,10 +1,10 @@
 {
-  "notes": "Menu principal: cortinas ondulando e luz de lamparina acendendo sobre o personagem.",
+  "notes": "Luz da lamparina agora branca, levemente amarelada.",
   "jar": {
-    "version": "2.20",
-    "name": "GhostClient-2.20.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.20.jar",
-    "sha256": "1c802181b08f74b99ac090cb2d4da7e229493cdfaa972470973814368161c151"
+    "version": "2.21",
+    "name": "GhostClient-2.21.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.21.jar",
+    "sha256": "09e48b62cd21359c2c4edde58153e10d5c5baa25dd4cf96ca322ff1f853e8935"
   },
   "launcher": {
     "version": "2.07",
