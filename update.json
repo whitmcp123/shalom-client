@@ -1,9 +1,9 @@
 {
-  "notes": "Asas mais limpas: Morcego refeito e menos poluição nas outras; telas de carregamento minimalistas.",
+  "notes": "Tela de conexão ao servidor redesenhada: hexagrama maior com brilho, raio de luz e rotação suave.",
   "jar": {
-    "version": "2.15",
-    "name": "GhostClient-2.15.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.15.jar",
-    "sha256": "b5faff791b899fc9a6ecb651725f68061dc98fbae3bf26246fb1e0654a354226"
+    "version": "2.16",
+    "name": "GhostClient-2.16.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.16.jar",
+    "sha256": "c37d0816b91cba3b4b909eb69b777bc9f8f2f3cba62a6c224bad9e8682ea32b1"
   }
 }
