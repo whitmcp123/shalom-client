@@ -1,10 +1,10 @@
 {
-  "notes": "Launcher agora pega atualizações novas sem precisar reabrir. Mod 2.18: personagem do menu segue o mouse.",
+  "notes": "Crosshair: agora você escolhe o estilo vendo a imagem de cada mira.",
   "jar": {
-    "version": "2.18",
-    "name": "GhostClient-2.18.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.18.jar",
-    "sha256": "333733fcc275520e2b5cff612645057b8ddd90148d5e3f741e68f16b538f13d0"
+    "version": "2.19",
+    "name": "GhostClient-2.19.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.19.jar",
+    "sha256": "7d1820a9f4016a826765ec6bbb7fb9d055ac4262ee4eaec7ed9a60db1b854f29"
   },
   "launcher": {
     "version": "2.07",
