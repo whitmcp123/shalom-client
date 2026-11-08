@@ -1,9 +1,15 @@
 {
-  "notes": "Personagem do menu principal agora segue o mouse com a cabeça e tem um balanço leve.",
+  "notes": "Launcher agora pega atualizações novas sem precisar reabrir. Mod 2.18: personagem do menu segue o mouse.",
   "jar": {
     "version": "2.18",
     "name": "GhostClient-2.18.jar",
     "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.18.jar",
     "sha256": "333733fcc275520e2b5cff612645057b8ddd90148d5e3f741e68f16b538f13d0"
+  },
+  "launcher": {
+    "version": "2.07",
+    "name": "ShalomClient-2.07.exe",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.07.exe",
+    "sha256": "450d7056c232cb906832fbfedbcff46135ecc9e2e4befe363fc3b6b382f36633"
   }
 }
