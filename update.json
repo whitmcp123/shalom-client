@@ -1,9 +1,9 @@
 {
-  "notes": "Telas de carregamento mais vivas e limpas: luz que respira, anel com pontos girando e poeira de luz.",
+  "notes": "Personagem do menu principal agora segue o mouse com a cabeça e tem um balanço leve.",
   "jar": {
-    "version": "2.17",
-    "name": "GhostClient-2.17.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.17.jar",
-    "sha256": "02795c72ac1efc356918b5499b90f8e5fb17d5fcf761fe1c98c7aa4b305bf386"
+    "version": "2.18",
+    "name": "GhostClient-2.18.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.18.jar",
+    "sha256": "333733fcc275520e2b5cff612645057b8ddd90148d5e3f741e68f16b538f13d0"
   }
 }
