@@ -1,9 +1,9 @@
 {
-  "notes": "Tela de conexão ao servidor redesenhada: hexagrama maior com brilho, raio de luz e rotação suave.",
+  "notes": "Telas de carregamento mais vivas e limpas: luz que respira, anel com pontos girando e poeira de luz.",
   "jar": {
-    "version": "2.16",
-    "name": "GhostClient-2.16.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.16.jar",
-    "sha256": "c37d0816b91cba3b4b909eb69b777bc9f8f2f3cba62a6c224bad9e8682ea32b1"
+    "version": "2.17",
+    "name": "GhostClient-2.17.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.17.jar",
+    "sha256": "02795c72ac1efc356918b5499b90f8e5fb17d5fcf761fe1c98c7aa4b305bf386"
   }
 }
