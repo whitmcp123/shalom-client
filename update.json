@@ -1,10 +1,10 @@
 {
-  "notes": "Crosshair: agora você escolhe o estilo vendo a imagem de cada mira.",
+  "notes": "Menu principal: cortinas ondulando e luz de lamparina acendendo sobre o personagem.",
   "jar": {
-    "version": "2.19",
-    "name": "GhostClient-2.19.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.19.jar",
-    "sha256": "7d1820a9f4016a826765ec6bbb7fb9d055ac4262ee4eaec7ed9a60db1b854f29"
+    "version": "2.20",
+    "name": "GhostClient-2.20.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.20.jar",
+    "sha256": "1c802181b08f74b99ac090cb2d4da7e229493cdfaa972470973814368161c151"
   },
   "launcher": {
     "version": "2.07",
