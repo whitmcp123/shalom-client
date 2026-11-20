@@ -1,10 +1,10 @@
 {
-  "notes": "Luz da lamparina agora branca, levemente amarelada.",
+  "notes": "Menu: luz mais realista, personagem corrigido, arraste e debate o boneco, cosméticos aparecem nele.",
   "jar": {
-    "version": "2.21",
-    "name": "GhostClient-2.21.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.21.jar",
-    "sha256": "09e48b62cd21359c2c4edde58153e10d5c5baa25dd4cf96ca322ff1f853e8935"
+    "version": "2.22",
+    "name": "GhostClient-2.22.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.22.jar",
+    "sha256": "46bd48940c551bd09c5d210053b060366a87582a1563e0fc2c8d86eaff08b8ec"
   },
   "launcher": {
     "version": "2.07",
