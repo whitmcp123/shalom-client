@@ -1,10 +1,10 @@
 {
-  "notes": "Menu: braços e pernas moles ao arrastar (sem bugar), luz branca mais realista.",
+  "notes": "Menu: cortinas em alta resolução, dobras finas e brilho de seda.",
   "jar": {
-    "version": "2.23",
-    "name": "GhostClient-2.23.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.23.jar",
-    "sha256": "49bfae94551948903d6c6e1f63f7a650c10231fc7c44bd0da2163932f7b16656"
+    "version": "2.24",
+    "name": "GhostClient-2.24.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.24.jar",
+    "sha256": "16d7c63795be2fa47e746fd45f0c70d5a341979281fb71304c8a326149002204"
   },
   "launcher": {
     "version": "2.07",
