@@ -1,5 +1,5 @@
 {
-  "notes": "Conta Shalom: crie a conta no site e entre pelo launcher (Contas > Conta Shalom). Menu: pernas e braços mais calmos, cortinas em alta resolução.",
+  "notes": "Launcher: botão Contas no menu e aviso para entrar na conta Shalom.",
   "jar": {
     "version": "2.25",
     "name": "GhostClient-2.25.jar",
@@ -7,9 +7,9 @@
     "sha256": "27ccf50485d3612f736da796659e36f0b58e640012405f3cb72f8753cd976beb"
   },
   "launcher": {
-    "version": "2.08",
-    "name": "ShalomClient-2.08.exe",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.08.exe",
-    "sha256": "32d74a060c0b7f93acbd11ed51664967a28677723c69df70211088ecc40bc835"
+    "version": "2.09",
+    "name": "ShalomClient-2.09.exe",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.09.exe",
+    "sha256": "3baffb08ba0de22be83f5b89914eaae2717749d3346b1d6ee5cf7e1c727916f9"
   }
 }
