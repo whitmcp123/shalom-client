@@ -1,5 +1,5 @@
 {
-  "notes": "Menu: pernas e braços mais calmos ao arrastar o boneco; cortinas em alta resolução.",
+  "notes": "Conta Shalom: crie a conta no site e entre pelo launcher (Contas > Conta Shalom). Menu: pernas e braços mais calmos, cortinas em alta resolução.",
   "jar": {
     "version": "2.25",
     "name": "GhostClient-2.25.jar",
@@ -7,9 +7,9 @@
     "sha256": "27ccf50485d3612f736da796659e36f0b58e640012405f3cb72f8753cd976beb"
   },
   "launcher": {
-    "version": "2.07",
-    "name": "ShalomClient-2.07.exe",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.07.exe",
-    "sha256": "450d7056c232cb906832fbfedbcff46135ecc9e2e4befe363fc3b6b382f36633"
+    "version": "2.08",
+    "name": "ShalomClient-2.08.exe",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.08.exe",
+    "sha256": "32d74a060c0b7f93acbd11ed51664967a28677723c69df70211088ecc40bc835"
   }
 }
