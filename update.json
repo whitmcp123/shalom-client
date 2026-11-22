@@ -1,10 +1,10 @@
 {
-  "notes": "Pernas do boneco do menu quase rígidas e versão no rodapé do menu Shift.",
+  "notes": "Corrige as pernas do boneco do menu girando de lado.",
   "jar": {
-    "version": "2.29",
-    "name": "GhostClient-2.29.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.29.jar",
-    "sha256": "3a24288de23c2587f6179829c40396f365a0f0b39caaf1fc58bb0bc181c14ed7"
+    "version": "2.30",
+    "name": "GhostClient-2.30.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.30.jar",
+    "sha256": "5e2d9d6ef66d20a90c22f1a2c18dc34049388e0c2c40d43ed1605c126be468a9"
   },
   "launcher": {
     "version": "2.10",
