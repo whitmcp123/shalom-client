@@ -1,10 +1,10 @@
 {
-  "notes": "Launcher: botão Contas no menu e aviso para entrar na conta Shalom.",
+  "notes": "Conta Shalom dentro do jogo: botão de conta no menu e tela para entrar, criar conta e sair.",
   "jar": {
-    "version": "2.25",
-    "name": "GhostClient-2.25.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.25.jar",
-    "sha256": "27ccf50485d3612f736da796659e36f0b58e640012405f3cb72f8753cd976beb"
+    "version": "2.26",
+    "name": "GhostClient-2.26.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.26.jar",
+    "sha256": "0442c27c7be5dfa559e119285846e29416233d577bdc675d335f1820f02bcfae"
   },
   "launcher": {
     "version": "2.09",
