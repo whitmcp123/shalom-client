@@ -1,10 +1,10 @@
 {
-  "notes": "Conta Shalom dentro do jogo: botão de conta no menu e tela para entrar, criar conta e sair.",
+  "notes": "Menu Shift redesenhado, motion blur reforçado e asas muito mais 3D.",
   "jar": {
-    "version": "2.26",
-    "name": "GhostClient-2.26.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.26.jar",
-    "sha256": "0442c27c7be5dfa559e119285846e29416233d577bdc675d335f1820f02bcfae"
+    "version": "2.27",
+    "name": "GhostClient-2.27.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.27.jar",
+    "sha256": "bffe20d346e2cfe65c7c8b3c2bbebf8d1f5e317eb1fa30b91bc47d43d6150ee5"
   },
   "launcher": {
     "version": "2.09",
