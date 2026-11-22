@@ -1,10 +1,10 @@
 {
-  "notes": "Menu Shift redesenhado, motion blur reforçado e asas muito mais 3D.",
+  "notes": "Pernas do boneco do menu mais firmes e sem girar ao arrastar.",
   "jar": {
-    "version": "2.27",
-    "name": "GhostClient-2.27.jar",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.27.jar",
-    "sha256": "bffe20d346e2cfe65c7c8b3c2bbebf8d1f5e317eb1fa30b91bc47d43d6150ee5"
+    "version": "2.28",
+    "name": "GhostClient-2.28.jar",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/GhostClient-2.28.jar",
+    "sha256": "e5ab305405a4ec59ca660a7c2643450454086e5464ebb4f24bdca4c6028cdacd"
   },
   "launcher": {
     "version": "2.09",
