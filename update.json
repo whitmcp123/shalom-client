@@ -7,9 +7,9 @@
     "sha256": "3a24288de23c2587f6179829c40396f365a0f0b39caaf1fc58bb0bc181c14ed7"
   },
   "launcher": {
-    "version": "2.09",
-    "name": "ShalomClient-2.09.exe",
-    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.09.exe",
-    "sha256": "3baffb08ba0de22be83f5b89914eaae2717749d3346b1d6ee5cf7e1c727916f9"
+    "version": "2.10",
+    "name": "ShalomClient-2.10.exe",
+    "url": "https://raw.githubusercontent.com/whitmcp123/shalom-client/main/ShalomClient-2.10.exe",
+    "sha256": "58270a2792117b897665f5162b01a801eece6e33ab976be1050666de132f7b53"
   }
 }
